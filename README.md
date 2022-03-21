@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @Ligamer24
-- 👀 I’m interested in learning all types in the programming world!
-- 🌱 I’m currently learning javascript, html, css and python
+- 👀 I’m interested in learning all types on the programming world!
+- 🌱 I’m currently learning Javascript, HTML, CSS and Python.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
+- I love penguins!
 
 <!---
 Ligamer24/Ligamer24 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
