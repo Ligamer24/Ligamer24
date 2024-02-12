@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @Ligamer24
 - 👀 I’m interested in learning all types on the programming world!
-- 🌱 I’m currently learning Javascript, HTML, CSS and Python.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning TypeScript, Tailwind using NextJs.
 - I love penguins!
 
 <!---
